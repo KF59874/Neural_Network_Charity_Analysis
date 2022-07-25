@@ -41,7 +41,7 @@ For deliverable 3, I added a third layer and changed the number of neurons as fo
 
 With results as follows:
 
-![Deliverable 1&2 result](images/del3result.PNG)
+![Deliverable 3 result](images/del3result.PNG)
 
 #### 2. Were you able to achieve the target model performance?
 I was not able to achieve an accuracy higher than 75%, however it did increase in comparison to Deliverable 1 & 2.
