@@ -37,16 +37,18 @@ With a result as follows:
 
 For deliverable 3, I added a third layer and changed the number of neurons as follows: 
 
-![Deliverable 3](iamges/del3.PNG)
+![Deliverable 3](images/del3.PNG)
 
 With results as follows:
+
+![Deliverable 1&2 result](images/del3result.PNG)
 
 #### 2. Were you able to achieve the target model performance?
 I was not able to achieve an accuracy higher than 75%, however it did increase in comparison to Deliverable 1 & 2.
 
-![Deliverable 3](iamges/del1acc.PNG)
+![Deliverable 3](images/del1acc.PNG)
 
-![Deliverable 3](iamges/del3acc.PNG)
+![Deliverable 3](images/del3acc.PNG)
 
 #### 3. What steps did you take to try and increase model performance?
 To increase the model performance, I added an extra layer, and changed the neuron amounts. I had additionally tried to change the output activation function, however that negatively impacted the accuracy level so I kept it at *sigmoid*.
